@@ -1,3 +1,5 @@
+# Run it from b2 branch to automatically merge changes of b1 branch into b2 branch"
+
 git fetch
 git checkout master
 git fetch
